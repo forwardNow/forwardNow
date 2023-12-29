@@ -1,2 +1,1 @@
-### ![visitors count](https://visitors-by-url-pls-dont-use-this-in-your-repo.vercel.app/forwardNow-github-readme)
-<img src="https://github-readme-stats.vercel.app/api?username=forwardNow&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=fff&hide_title=false
+![吴钦飞's GitHub stats](https://github-readme-stats.vercel.app/api?username=forwardNow&show_icons=true&theme=radical)
